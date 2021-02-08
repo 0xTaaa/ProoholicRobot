@@ -223,7 +223,6 @@ def start(update: Update, context: CallbackContext):
                                 ),
                             )
                         ],
-
                         [
                             InlineKeyboardButton(
                                 text="🗄 Source code",
