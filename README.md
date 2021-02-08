@@ -10,9 +10,9 @@
 
 Solution to your group management needs and has become one of the most prominently kanged bots around telegram, purely weeab themed.
 
-* Bot Link:  <a href="https://t.me/ProoholicRobot" alt="Prooholic Robot"> <img src="https://img.shields.io/badge/%F0%9F%A4%96%20-SaitamaRobot-blue" /> </a>
+* Bot Link:  <a href="https://t.me/ProoholicRobot" alt="Prooholic Robot"> <img src="https://img.shields.io/badge/%F0%9F%A4%96%20-Prooholic Robot-pink" /> </a>
 
-Should you be forking this repo then do not forget to star it - <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/animekaizoku/saitamarobot?color=white&label=%F0%9F%8C%9F%20star">
+Should you be forking this repo then do not forget to star it - <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/prooholic/saitamarobot?color=white&label=%F0%9F%8C%9F%20star">
 
 ## Credits 📍
 * Well, it's all in the commit history 
